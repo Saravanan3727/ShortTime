@@ -4,6 +4,9 @@ ShortTime is a full-stack URL shortener application built with React, Node.js (E
 
 ---
 
+### YoutubeLin
+https://youtu.be/gGxFekBfuwE
+
 ## 🛠 Tech Stack & Architecture
 
 - **Frontend**: React (Vite-based SPA), Lucide Icons, Recharts (for dynamic, interactive SVGs visualization charts), and Vanilla CSS (Glassmorphism layout, custom animations, custom HSL variables).
