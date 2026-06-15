@@ -4,9 +4,6 @@ ShortTime is a full-stack URL shortener application built with React, Node.js (E
 
 ---
 
-### YoutubeLin
-https://youtu.be/gGxFekBfuwE
-
 ## 🛠 Tech Stack & Architecture
 
 - **Frontend**: React (Vite-based SPA), Lucide Icons, Recharts (for dynamic, interactive SVGs visualization charts), and Vanilla CSS (Glassmorphism layout, custom animations, custom HSL variables).
@@ -163,7 +160,7 @@ Redirect base: http://localhost:5001
 
 ## 🎥 Video Demonstration Link
 Please click below to watch the Loom explanation and walkthrough showing user registration, shortening with aliases/expiry, short-code redirection clicks, real-time analytics graphs, and CSV bulk shortening:
-- **[Loom Video Demonstration Placeholder Link](https://www.loom.com/share/placeholder-link)**
+- **[Loom Video Demonstration Placeholder Link](https://youtu.be/gGxFekBfuwE)**
 
 ---
 This project is a part of a hackathon run by https://katomaran.com
