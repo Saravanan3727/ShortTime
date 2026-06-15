@@ -1,0 +1,4 @@
+url,alias,expiresAt
+https://www.google.com,google-search,
+https://www.wikipedia.org,wiki-info,2028-12-31T23:59:59Z
+https://reddit.com,reddit-home,2029-01-01T00:00:00Z
